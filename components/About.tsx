@@ -24,7 +24,7 @@ const About = () => {
                     <div className="mb-[3rem] flex items-center md:space-x-10">
                         <span className="w-[100px] hidden md:block h-[5px] bg-slate-400 rounded-sm"></span>
                         <p className="text-[19px] text-slate-300 w-[80%]">
-                            Outside of academics, I love degenerately gambling my money away in poker, working out, going on walks, and watching sunsets. Thank you for
+                            Outside of academics, I love degenerately gambling my money away in poker, working out, boxing, and cooking. Thank you for
                             visiting my website, it&apos;s been a pleasure telling you a bit about myself. Feel free to poke around some more, and don&apos;t forget to reach out! :)
                         </p>
                     </div>
